@@ -17,7 +17,7 @@ function App() {
         <div class="collapse navbar-collapse" id="navbarNav">
           <ul class="navbar-nav">
             <li class="nav-item">
-              <a class="nav-link active" aria-current="page" href="/">Principal</a>
+              <a class="nav-link active" aria-current="page" href="/">Prin</a>
             </li>
             <li class="nav-item">
               <a class="nav-link active" href="/pagina1">Pagina1</a>
